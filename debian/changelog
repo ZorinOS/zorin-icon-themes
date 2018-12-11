@@ -1,0 +1,297 @@
+zorin-icon-themes (2.2.2) bionic; urgency=medium
+
+  * Added LICENSE and README.md files
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 11 Dec 2018 23:45:52 +0000
+
+zorin-icon-themes (2.2.1) bionic; urgency=medium
+
+  * Made ZorinGrey-Light folder colours slightly lighter
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Mon, 03 Dec 2018 15:40:52 +0000
+
+zorin-icon-themes (2.2) bionic; urgency=medium
+
+  * Re-architected theme to be independent from the Paper icon theme and
+    changed base colours in colour variants
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 02 Dec 2018 23:26:27 +0000
+
+zorin-icon-themes (2.1.9-1) bionic; urgency=medium
+
+  * Reuploaded to Zorin OS 15 repositories
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 08 Sep 2018 01:06:58 +0100
+
+zorin-icon-themes (2.1.9) xenial; urgency=medium
+
+  * Improved support for the Folder Colors extension
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Mon, 22 Jan 2018 17:44:34 +0000
+
+zorin-icon-themes (2.1.8) xenial; urgency=medium
+
+  * Removed XFCE icons which were introduced upstream
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Mon, 12 Jun 2017 15:28:55 +0100
+
+zorin-icon-themes (2.1.7) xenial; urgency=medium
+
+  * Changed System category icon from a gear to a computer
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 09 Jun 2017 21:20:47 +0100
+
+zorin-icon-themes (2.1.6) xenial; urgency=medium
+
+  * Improved comatibility with XFCE
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Thu, 08 Jun 2017 12:11:45 +0100
+
+zorin-icon-themes (2.1.5) xenial; urgency=medium
+
+  * Added Zorin symbolic icons to all coloured icon themes
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 06 May 2017 11:40:47 +0100
+
+zorin-icon-themes (2.1.4) xenial; urgency=medium
+
+  * Added references to categories directories at 2x scale
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 05 May 2017 19:34:55 +0100
+
+zorin-icon-themes (2.1.3) xenial; urgency=medium
+
+  * Fixed regressions in Gnome Shell
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 05 May 2017 17:00:30 +0100
+
+zorin-icon-themes (2.1.2) xenial; urgency=medium
+
+  * Added fixes for the XFCE Power Manager and the volume off
+    notification icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 05 May 2017 15:15:44 +0100
+
+zorin-icon-themes (2.1.1) xenial; urgency=medium
+
+  * Fixed a number of XFCE-related issues
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Thu, 04 May 2017 15:44:08 +0100
+
+zorin-icon-themes (2.1) xenial; urgency=medium
+
+  * Added colored panel and notification icons for Zorin OS Lite
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 03 May 2017 22:57:30 +0100
+
+zorin-icon-themes (2.0.12) xenial; urgency=medium
+
+  * Zorin logo icons have shadows in higher resolutions
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 01 Oct 2016 01:50:01 +0100
+
+zorin-icon-themes (2.0.11) xenial; urgency=medium
+
+  * Changed symbolic icon colour scheme to match the Zorin app themes
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 25 Sep 2016 18:36:35 +0100
+
+zorin-icon-themes (2.0.10) xenial; urgency=medium
+
+  * Ready for public use in Zorin OS 12
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 18 Sep 2016 20:39:06 +0100
+
+zorin-icon-themes (2.0.9) xenial; urgency=medium
+
+  * Added icons for Sudoku, Quadrapassel and Mines
+
+ -- Zorin OS <os@zoringroup.com>  Sun, 18 Sep 2016 14:56:04 +0100
+
+zorin-icon-themes (2.0.8) xenial; urgency=medium
+
+  * Applied same fix for Gnome Terminal
+
+ -- Zorin OS <os@zoringroup.com>  Sun, 18 Sep 2016 14:45:28 +0100
+
+zorin-icon-themes (2.0.7) xenial; urgency=medium
+
+  * Fixed LibreOffice appmenu icon scaling issue
+
+ -- Zorin OS <os@zoringroup.com>  Sun, 18 Sep 2016 14:14:40 +0100
+
+zorin-icon-themes (2.0.6) xenial; urgency=medium
+
+  * Reverted previous change
+
+ -- Zorin OS <os@zoringroup.com>  Thu, 15 Sep 2016 18:43:33 +0100
+
+zorin-icon-themes (2.0.5) xenial; urgency=medium
+
+  * Added missing icon in ZorinBlue-Light in order to complete Ubiquity
+    builds
+
+ -- Zorin OS <os@zoringroup.com>  Thu, 15 Sep 2016 17:09:55 +0100
+
+zorin-icon-themes (2.0.4) xenial; urgency=medium
+
+  * Added Gnome Activity Journal and Ndisgtk icons
+
+ -- Zorin OS <os@zoringroup.com>  Wed, 14 Sep 2016 01:56:59 +0100
+
+zorin-icon-themes (2.0.3) xenial; urgency=medium
+
+  * Corrected colour for close button
+
+ -- Zorin OS <os@zoringroup.com>  Mon, 12 Sep 2016 22:02:49 +0100
+
+zorin-icon-themes (2.0.2) xenial; urgency=medium
+
+  * Added new window button icons
+
+ -- Zorin OS <os@zoringroup.com>  Mon, 12 Sep 2016 17:08:27 +0100
+
+zorin-icon-themes (2.0.1) xenial; urgency=medium
+
+  * Added throbber icon
+
+ -- Zorin OS <os@zoringroup.com>  Mon, 12 Sep 2016 14:17:07 +0100
+
+zorin-icon-themes (2.0) xenial; urgency=medium
+
+  * New version for Zorin OS 12 onwards based on the Paper icon theme
+
+ -- Zorin OS <os@zoringroup.com>  Mon, 05 Sep 2016 21:20:22 +0100
+
+zorin-icon-themes (1.2.1) wily; urgency=low
+
+  * Added icon for Gnome Clocks
+
+ -- Zorin OS <os@zoringroup.com>  Tue, 26 Jan 2016 21:33:57 -0500
+
+zorin-icon-themes (1.2) wily; urgency=low
+
+  * Added new Grey themes
+
+ -- Zorin OS <os@zoringroup.com>  Wed, 13 Jan 2016 17:09:23 -0500
+
+zorin-icon-themes (1.1.5) wily; urgency=low
+
+  * New version for Zorin OS 11
+
+ -- Zorin OS <os@zoringroup.com>  Thu, 12 Nov 2015 18:04:53 -0500
+
+zorin-icon-themes (1.1.4) vivid; urgency=low
+
+  * Fixed scaling bug
+
+ -- Zorin OS <os@zoringroup.com>  Fri, 07 Aug 2015 13:30:18 -0400
+
+zorin-icon-themes (1.1.3) vivid; urgency=low
+
+  * Fixed Mimetype icon scaling for PCManFM
+
+ -- Zorin OS <os@zoringroup.com>  Fri, 07 Aug 2015 09:28:31 -0400
+
+zorin-icon-themes (1.1.2) vivid; urgency=low
+
+  * Added LSC icons
+
+ -- Zorin OS <os@zoringroup.com>  Thu, 06 Aug 2015 19:44:50 -0400
+
+zorin-icon-themes (1.1.1) vivid; urgency=low
+
+  * Added LXDE icons
+
+ -- Zorin OS <os@zoringroup.com>  Wed, 05 Aug 2015 17:36:25 -0400
+
+zorin-icon-themes (1.1) vivid; urgency=low
+
+  * Additional fixes
+
+ -- Zorin OS <os@zoringroup.com>  Sun, 26 Jul 2015 14:47:08 -0400
+
+zorin-icon-themes (1.0.12) vivid; urgency=low
+
+  * Added more icons
+
+ -- Zorin OS <os@zoringroup.com>  Sat, 25 Jul 2015 19:28:08 -0400
+
+zorin-icon-themes (1.0.11) vivid; urgency=low
+
+  * Fixed some indicator applet icon issues
+
+ -- Zorin OS <os@zoringroup.com>  Sat, 25 Jul 2015 12:44:12 -0400
+
+zorin-icon-themes (1.0.10) vivid; urgency=low
+
+  * Fixes
+
+ -- Zorin OS <os@zoringroup.com>  Fri, 17 Jul 2015 21:10:49 -0400
+
+zorin-icon-themes (1.0.9) vivid; urgency=low
+
+  * Fixed more issues with the VLC and Clementine icons
+
+ -- Zorin OS <os@zoringroup.com>  Wed, 15 Jul 2015 12:45:32 -0400
+
+zorin-icon-themes (1.0.8) vivid; urgency=low
+
+  * Added VLC and Clementine panel icons
+
+ -- Zorin OS <os@zoringroup.com>  Tue, 14 Jul 2015 19:53:38 -0400
+
+zorin-icon-themes (1.0.7) vivid; urgency=low
+
+  * Added Libre.FM icon for Rhythmbox
+
+ -- Zorin OS <os@zoringroup.com>  Thu, 09 Jul 2015 18:25:36 -0400
+
+zorin-icon-themes (1.0.6) vivid; urgency=low
+
+  * Added icons for pantheon-photos
+
+ -- Zorin OS <os@zoringroup.com>  Wed, 08 Jul 2015 21:28:31 -0400
+
+zorin-icon-themes (1.0.5) vivid; urgency=low
+
+  * Re-introduced the Zorin cursor theme
+
+ -- Zorin OS <os@zoringroup.com>  Mon, 06 Jul 2015 17:04:55 -0400
+
+zorin-icon-themes (1.0.4) vivid; urgency=low
+
+  * Added accessibility-directory icons for the mono themes
+
+ -- Zorin OS <os@zoringroup.com>  Mon, 06 Jul 2015 12:44:49 -0400
+
+zorin-icon-themes (1.0.3) vivid; urgency=low
+
+  * Removed Parole icons
+
+ -- Zorin OS <os@zoringroup.com>  Sun, 05 Jul 2015 16:12:19 -0400
+
+zorin-icon-themes (1.0.2) vivid; urgency=low
+
+  * Added more accessibility icons and removed cursor theme
+
+ -- Zorin OS <os@zoringroup.com>  Sun, 05 Jul 2015 11:57:47 -0400
+
+zorin-icon-themes (1.0.1) vivid; urgency=low
+
+  * Removed the Zorin logos from the non-blue icon themes
+
+ -- Zorin OS <os@zoringroup.com>  Wed, 01 Jul 2015 19:22:59 -0400
+
+zorin-icon-themes (1.0) vivid; urgency=low
+
+  * Added package to PPA
+
+ -- Zorin OS <os@zoringroup.com>  Mon, 29 Jun 2015 21:11:43 -0400
+
+zorin-icon-themes (0.1) vivid; urgency=low
+
+  * Initial release
+
+ -- Zorin OS <os@zoringroup.com>  Mon, 29 Jun 2015 17:14:02 +0200
+
