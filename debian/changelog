@@ -1,3 +1,9 @@
+zorin-icon-themes (2.2.3) bionic; urgency=medium
+
+  * Update README.md
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 11 Dec 2018 23:52:07 +0000
+
 zorin-icon-themes (2.2.2) bionic; urgency=medium
 
   * Added LICENSE and README.md files
