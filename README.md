@@ -1,3 +1,3 @@
-# Zorin Desktop Themes
+# Zorin Icon Themes
 
-The Zorin OS desktop theme provided in a variety of color combinations.
+The Zorin OS icon theme provided in a variety of color combinations.
