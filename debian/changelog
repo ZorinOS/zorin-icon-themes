@@ -1,3 +1,21 @@
+zorin-icon-themes (2.2.6) bionic; urgency=medium
+
+  * Updated user-desktop and desktop-panel icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 08 Jan 2019 21:17:34 +0000
+
+zorin-icon-themes (2.2.5) bionic; urgency=medium
+
+  * Changed software-store and user-desktop icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Mon, 07 Jan 2019 18:00:16 +0000
+
+zorin-icon-themes (2.2.4) bionic; urgency=medium
+
+  * Removed Paper cursor theme
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 28 Dec 2018 13:01:52 +0000
+
 zorin-icon-themes (2.2.3) bionic; urgency=medium
 
   * Update README.md
