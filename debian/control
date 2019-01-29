@@ -8,5 +8,5 @@ Standards-Version: 3.9.7
 Package: zorin-icon-themes
 Architecture: all
 Depends: ${misc:Depends}
-Description: Zorin OS icon themes
- The Zorin OS icon theme provided in a variety of color combinations.
+Description: Zorin icon themes
+ The Zorin icon theme provided in a variety of color combinations.

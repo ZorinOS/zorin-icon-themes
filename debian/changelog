@@ -1,3 +1,27 @@
+zorin-icon-themes (2.2.10) bionic; urgency=medium
+
+  * Added alacarte icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 27 Jan 2019 19:09:30 +0000
+
+zorin-icon-themes (2.2.9) bionic; urgency=medium
+
+  * Added gnome-control-center-symbolic icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 18 Jan 2019 22:01:00 +0000
+
+zorin-icon-themes (2.2.8) bionic; urgency=medium
+
+  * Updated Software icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 18 Jan 2019 16:18:10 +0000
+
+zorin-icon-themes (2.2.7) bionic; urgency=medium
+
+  * Updated gnome-power-stats icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 15 Jan 2019 22:24:24 +0000
+
 zorin-icon-themes (2.2.6) bionic; urgency=medium
 
   * Updated user-desktop and desktop-panel icons
