@@ -35,8 +35,8 @@
   <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-645.00042,-80.996643)'>
     
     
-    <path inkscape:connector-curvature='0' d='m 651.00065,85.999583 4,3 -4,3 0,-2 -4,0 0,-2 4,0 z' id='path5305' sodipodi:nodetypes='cccccccc' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
-    <path inkscape:connector-curvature='0' d='m 658.00065,95.999273 -10,-0.004 0,-1.99609 8,0 0,-10 0,0 -8,-0.002 0,-2.001998 10,0.004 z' id='path5307' sodipodi:nodetypes='cccccccccc' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+    <path inkscape:connector-curvature='0' d='m 651.00065,85.999583 4,3 -4,3 0,-2 -4,0 0,-2 4,0 z' id='path5305' sodipodi:nodetypes='cccccccc' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+    <path inkscape:connector-curvature='0' d='m 658.00065,95.999273 -10,-0.004 0,-1.99609 8,0 0,-10 0,0 -8,-0.002 0,-2.001998 10,0.004 z' id='path5307' sodipodi:nodetypes='cccccccccc' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
   </g>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='status' style='display:inline' transform='translate(-404.00022,-327.99664)'/>
 </svg>

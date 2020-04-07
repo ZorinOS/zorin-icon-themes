@@ -21,7 +21,7 @@
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-33.000202,-205.36047)'>
     <rect clip-path='none' height='22' id='rect6303-3' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='matrix(0,-1,1,0,0,0)' width='22' x='-227.36047' y='33.000202'/>
-    <path inkscape:connector-curvature='0' d='m 44,211.36216 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 49.71214,212.42762 47.01105,211.36216 44,211.36216 Z' id='path3074' sodipodi:nodetypes='scccs' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdee0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+    <path inkscape:connector-curvature='0' d='m 44,211.36216 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 49.71214,212.42762 47.01105,211.36216 44,211.36216 Z' id='path3074' sodipodi:nodetypes='scccs' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-33.000202,247.00169)'/>
 </svg>

@@ -20,7 +20,7 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-249,-789.27264)'>
-    <path inkscape:connector-curvature='0' d='m 259,792.36216 c 0,0 -3,0 -3,3 l 0,1 0,6 -2,0 0,-6 -2,0 0,6 c 0,2 2,2 2,2 l 2,0 0,1 c 0,3 3,3 3,3 l 5,0 0,-4.5 -2,2.5 -4,-5 2,0 0,-6 4,0 0,2 4,0 0,-2 c 0.0783,0.52713 0,-3 -3,-3 l -6,0 z m 5,7 0,1 4,0 0,-1 -4,0 z' id='path5258' style='color:#bebebe;display:inline;fill:#dbdee0;fill-opacity:1;stroke:none;enable-background:new'/>
+    <path inkscape:connector-curvature='0' d='m 259,792.36216 c 0,0 -3,0 -3,3 l 0,1 0,6 -2,0 0,-6 -2,0 0,6 c 0,2 2,2 2,2 l 2,0 0,1 c 0,3 3,3 3,3 l 5,0 0,-4.5 -2,2.5 -4,-5 2,0 0,-6 4,0 0,2 4,0 0,-2 c 0.0783,0.52713 0,-3 -3,-3 l -6,0 z m 5,7 0,1 4,0 0,-1 -4,0 z' id='path5258' style='color:#bebebe;display:inline;fill:#333333;fill-opacity:1;stroke:none;enable-background:new'/>
     <rect height='22' id='rect5260' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' width='22' x='249' y='789.27264'/>
     <path class='error' inkscape:connector-curvature='0' d='m 265,801.36216 -10e-6,4 0.25,2 1.5,0 0.25,-2 10e-6,-4 z m 0,7 0,2 2,0 0,-2 z' id='path11098-9' sodipodi:nodetypes='cccccccccccc' style='color:#444444;display:inline;fill:#e74c3c;fill-opacity:1;stroke:none'/>
   </g>

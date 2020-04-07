@@ -17,9 +17,9 @@
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-55.999985,-564.36389)'>
     
-    <path inkscape:connector-curvature='0' d='m 61.499985,568.36389 c -0.277,0 -0.5,0.22301 -0.5,0.50001 l 0,0.5 L 59,569.3619 l 0,-2.6e-4 -1.5e-5,14.50174 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 L 66,569.36216 l -0.500015,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.50001 -0.5,-0.50001 z' id='path10739' sodipodi:nodetypes='sscccsssscccsss' style='color:#bebebe;opacity:0.35;fill:#dbdee0;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round'/>
-    <path inkscape:connector-curvature='0' d='m 59,573.36216 -1.5e-5,10.50174 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 L 66,573.36216 Z' id='path10741' sodipodi:nodetypes='csssscc' style='color:#bebebe;fill:#dbdee0;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round'/>
-    <path inkscape:connector-curvature='0' d='m 73,568.36216 c -2.77,0 -5,2.676 -5,6 l 5,0 z m 1,0 0,6 5,0 c 0,-3.324 -2.23,-6 -5,-6 z m -6,7 0,3 c 0,3.324 2.23,6 5,6 l 1,0 c 2.77,0 5,-2.676 5,-6 l 0,-3 -5,0 0,0 z' id='path10805' sodipodi:nodetypes='cccccccccsssscccc' style='fill:#dbdee0;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 61.499985,568.36389 c -0.277,0 -0.5,0.22301 -0.5,0.50001 l 0,0.5 L 59,569.3619 l 0,-2.6e-4 -1.5e-5,14.50174 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 L 66,569.36216 l -0.500015,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.50001 -0.5,-0.50001 z' id='path10739' sodipodi:nodetypes='sscccsssscccsss' style='color:#bebebe;opacity:0.35;fill:#333333;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round'/>
+    <path inkscape:connector-curvature='0' d='m 59,573.36216 -1.5e-5,10.50174 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 L 66,573.36216 Z' id='path10741' sodipodi:nodetypes='csssscc' style='color:#bebebe;fill:#333333;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round'/>
+    <path inkscape:connector-curvature='0' d='m 73,568.36216 c -2.77,0 -5,2.676 -5,6 l 5,0 z m 1,0 0,6 5,0 c 0,-3.324 -2.23,-6 -5,-6 z m -6,7 0,3 c 0,3.324 2.23,6 5,6 l 1,0 c 2.77,0 5,-2.676 5,-6 l 0,-3 -5,0 0,0 z' id='path10805' sodipodi:nodetypes='cccccccccsssscccc' style='fill:#333333;stroke:none'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-55.999985,-112.00173)'/>
 </svg>

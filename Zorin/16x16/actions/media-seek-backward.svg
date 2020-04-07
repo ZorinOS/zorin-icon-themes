@@ -34,8 +34,8 @@
   </defs>
   <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-285.0004,39.00336)'>
     
-    <path inkscape:connector-curvature='0' d='m 293.0002,-31.00378 7,4 0,-8 z' id='path5393' sodipodi:nodetypes='cccc' style='fill:#000000;fill-opacity:0.49803922;stroke:none'/>
-    <path inkscape:connector-curvature='0' d='m 286.0002,-31.00378 7,4 0,-8 z' id='path5395' sodipodi:nodetypes='cccc' style='fill:#000000;fill-opacity:0.49803922;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 293.0002,-31.00378 7,4 0,-8 z' id='path5393' sodipodi:nodetypes='cccc' style='fill:#333333;fill-opacity:0.49803922;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 286.0002,-31.00378 7,4 0,-8 z' id='path5395' sodipodi:nodetypes='cccc' style='fill:#333333;fill-opacity:0.49803922;stroke:none'/>
   </g>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='status' style='display:inline' transform='translate(-44.000202,-207.99664)'/>
 </svg>

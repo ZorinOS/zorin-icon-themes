@@ -20,7 +20,7 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-57,-813.27262)'>
-    <path inkscape:connector-curvature='0' d='m 63,817.27424 0,2 4,0 0,3 2,0 0,-3 4,0 0,-2 z m 6,5 0,3 2,0 -3,3 -3,-3 2,0 0,-3 -3,0 c 0,0 -0.9427,-0.0499 -1,0.875 l -1,6 0,1.125 1,0 10,0 1,0 0,-1.125 -1,-6 c -0.12238,-0.8567 -1,-0.875 -1,-0.875 z' id='path3775-3' sodipodi:nodetypes='ccccccccccccccccccccccccccc' style='color:#000000;fill:#dbdee0;fill-opacity:1;stroke:none;stroke-width:2'/>
+    <path inkscape:connector-curvature='0' d='m 63,817.27424 0,2 4,0 0,3 2,0 0,-3 4,0 0,-2 z m 6,5 0,3 2,0 -3,3 -3,-3 2,0 0,-3 -3,0 c 0,0 -0.9427,-0.0499 -1,0.875 l -1,6 0,1.125 1,0 10,0 1,0 0,-1.125 -1,-6 c -0.12238,-0.8567 -1,-0.875 -1,-0.875 z' id='path3775-3' sodipodi:nodetypes='ccccccccccccccccccccccccccc' style='color:#000000;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2'/>
     <rect height='22' id='rect9063' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' width='22' x='57' y='813.27264'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-57,-360.91046)'/>

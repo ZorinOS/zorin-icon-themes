@@ -17,8 +17,8 @@
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-104,-396.36216)'>
     
-    <path inkscape:connector-curvature='0' d='m 108.9998,415.36549 14,-14 0,14 z' id='path6584' sodipodi:nodetypes='cccc' style='opacity:0.35;fill:#dbdee0;fill-opacity:1;stroke:none'/>
-    <path inkscape:connector-curvature='0' d='m 113,411.36549 -4,4 4,0 0,-4 z' id='path6586' style='fill:#dbdee0;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 108.9998,415.36549 14,-14 0,14 z' id='path6584' sodipodi:nodetypes='cccc' style='opacity:0.35;fill:#333333;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 113,411.36549 -4,4 4,0 0,-4 z' id='path6586' style='fill:#333333;fill-opacity:1;stroke:none'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-104,55.999996)'/>
 </svg>

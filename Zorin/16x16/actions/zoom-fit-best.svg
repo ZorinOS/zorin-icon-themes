@@ -34,7 +34,7 @@
   </defs>
   <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-265.00059,-140.99666)'>
     
-    <path inkscape:connector-curvature='0' d='m 268.1877,142.99958 c -0.6627,0 -1.1875,0.54894 -1.1875,1.21875 l 0,3.78125 2,0 0,-3 3,0 0,-2 -3.8125,0 z m 5.8125,0 0,2 3,0 0,3 2,0 0,-3.78125 c 0,-0.66976 -0.5248,-1.21875 -1.1875,-1.21875 l -3.8125,0 z m -7,7 0,3.78125 c 0,0.66976 0.5248,1.21875 1.1875,1.21875 l 3.8125,0 0,-2 -3,0 0,-3 -2,0 z m 10,0 0,3 -3,0 0,2 3.8125,0 c 0.6627,0 1.1875,-0.54894 1.1875,-1.21875 l 0,-3.78125 -2,0 z' id='path5377' style='color:#bebebe;fill:#000000;fill-opacity:0.49803922;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 268.1877,142.99958 c -0.6627,0 -1.1875,0.54894 -1.1875,1.21875 l 0,3.78125 2,0 0,-3 3,0 0,-2 -3.8125,0 z m 5.8125,0 0,2 3,0 0,3 2,0 0,-3.78125 c 0,-0.66976 -0.5248,-1.21875 -1.1875,-1.21875 l -3.8125,0 z m -7,7 0,3.78125 c 0,0.66976 0.5248,1.21875 1.1875,1.21875 l 3.8125,0 0,-2 -3,0 0,-3 -2,0 z m 10,0 0,3 -3,0 0,2 3.8125,0 c 0.6627,0 1.1875,-0.54894 1.1875,-1.21875 l 0,-3.78125 -2,0 z' id='path5377' style='color:#bebebe;fill:#333333;fill-opacity:0.49803922;stroke:none'/>
   </g>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='status' style='display:inline' transform='translate(-24.000387,-387.99666)'/>
 </svg>

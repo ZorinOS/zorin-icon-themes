@@ -17,9 +17,9 @@
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-55.999985,-540.36389)'>
     
-    <path inkscape:connector-curvature='0' d='m 68.999985,544.36389 c -1,0 -1,1.00001 -1,1.00001 l 0,14 c 0,0 0,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-14 c 0,0 0,-1.00001 -1,-1.00001 z m 0.9998,2.00336 6,0 0,11 -6,0 z' id='path23868' sodipodi:nodetypes='sccssccssscccs' style='fill:#dbdee0;stroke:none'/>
-    <path inkscape:connector-curvature='0' d='m 61.499985,544.36389 c -0.277,0 -0.5,0.22301 -0.5,0.50001 l 0,0.5 L 59,545.3619 l 0,-2.6e-4 -1.5e-5,14.50174 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 L 66,545.36216 l -0.500015,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.50001 -0.5,-0.50001 z' id='path3481' sodipodi:nodetypes='sscccsssscccsss' style='color:#bebebe;opacity:0.35;fill:#dbdee0;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round'/>
-    <path inkscape:connector-curvature='0' d='m 59,549.36216 -1.5e-5,10.50174 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 L 66,549.36216 Z' id='path2994' sodipodi:nodetypes='csssscc' style='color:#bebebe;fill:#dbdee0;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round'/>
+    <path inkscape:connector-curvature='0' d='m 68.999985,544.36389 c -1,0 -1,1.00001 -1,1.00001 l 0,14 c 0,0 0,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-14 c 0,0 0,-1.00001 -1,-1.00001 z m 0.9998,2.00336 6,0 0,11 -6,0 z' id='path23868' sodipodi:nodetypes='sccssccssscccs' style='fill:#333333;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 61.499985,544.36389 c -0.277,0 -0.5,0.22301 -0.5,0.50001 l 0,0.5 L 59,545.3619 l 0,-2.6e-4 -1.5e-5,14.50174 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 L 66,545.36216 l -0.500015,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.50001 -0.5,-0.50001 z' id='path3481' sodipodi:nodetypes='sscccsssscccsss' style='color:#bebebe;opacity:0.35;fill:#333333;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round'/>
+    <path inkscape:connector-curvature='0' d='m 59,549.36216 -1.5e-5,10.50174 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 L 66,549.36216 Z' id='path2994' sodipodi:nodetypes='csssscc' style='color:#bebebe;fill:#333333;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-55.999985,-88.001732)'/>
 </svg>

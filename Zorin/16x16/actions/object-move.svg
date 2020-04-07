@@ -34,10 +34,10 @@
   </defs>
   <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-585.00291,59.000005)'>
     
-    <path inkscape:connector-curvature='0' d='m 593.0002,-43.481386 -3,-3.5 2,0 0,-2 2,0 0,2 2,0 z' id='path5755' sodipodi:nodetypes='cccccccc' style='fill:#000000;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none'/>
-    <path inkscape:connector-curvature='0' d='m 593.0002,-58.481386 -3,3.5 2,0 0,2 2,0 0,-2 2,0 z' id='path5757' sodipodi:nodetypes='cccccccc' style='fill:#000000;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none'/>
-    <path inkscape:connector-curvature='0' d='m 600.5002,-50.981386 -3.5,-3 0,2 -2,0 0,2 2,0 -4e-5,2 z' id='path5759' sodipodi:nodetypes='cccccccc' style='fill:#000000;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none'/>
-    <path inkscape:connector-curvature='0' d='m 585.5002,-50.981386 3.5,-3 0,2 2,0 0,2 -1.99996,0 -4e-5,2 z' id='path5761' sodipodi:nodetypes='cccccccc' style='fill:#000000;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 593.0002,-43.481386 -3,-3.5 2,0 0,-2 2,0 0,2 2,0 z' id='path5755' sodipodi:nodetypes='cccccccc' style='fill:#333333;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 593.0002,-58.481386 -3,3.5 2,0 0,2 2,0 0,-2 2,0 z' id='path5757' sodipodi:nodetypes='cccccccc' style='fill:#333333;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 600.5002,-50.981386 -3.5,-3 0,2 -2,0 0,2 2,0 -4e-5,2 z' id='path5759' sodipodi:nodetypes='cccccccc' style='fill:#333333;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 585.5002,-50.981386 3.5,-3 0,2 2,0 0,2 -1.99996,0 -4e-5,2 z' id='path5761' sodipodi:nodetypes='cccccccc' style='fill:#333333;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none'/>
   </g>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='status' style='display:inline' transform='translate(-344.00271,-187.99999)'/>
 </svg>

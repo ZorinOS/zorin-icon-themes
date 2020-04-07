@@ -1,3 +1,124 @@
+zorin-icon-themes (2.4.5) bionic; urgency=medium
+
+  * Converted symbolic icons to normal SVGs
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 07 Apr 2020 19:41:59 +0100
+
+zorin-icon-themes (2.4.4) bionic; urgency=medium
+
+  * Added gtk-yes.svg and gtk-no.svg symbolic links
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 26 Feb 2020 20:10:51 +0000
+
+zorin-icon-themes (2.4.3) bionic; urgency=medium
+
+  * Updated Firefox icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 07 Jan 2020 15:48:07 +0000
+
+zorin-icon-themes (2.4.2) bionic; urgency=medium
+
+  * Updated ac-adapter-symbolic and process-working-symbolic icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 09 Nov 2019 14:25:53 +0000
+
+zorin-icon-themes (2.4.1) bionic; urgency=medium
+
+  * Added blueman-untrust icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 06 Nov 2019 15:17:22 +0000
+
+zorin-icon-themes (2.4) bionic; urgency=medium
+
+  * Added new icons for better compatibility with XFCE
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Mon, 04 Nov 2019 20:20:59 +0000
+
+zorin-icon-themes (2.3.12) bionic; urgency=medium
+
+  * Removed skypeforlinux icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 18 Aug 2019 17:31:28 +0100
+
+zorin-icon-themes (2.3.11) bionic; urgency=medium
+
+  * Removed Slack icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 26 Jun 2019 10:55:06 +0100
+
+zorin-icon-themes (2.3.10) bionic; urgency=medium
+
+  * Removed folder_color_pink and folder_color_purple icons as they were
+    functionally duplicates of the Magenta and Pink colours
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 29 May 2019 17:30:28 +0100
+
+zorin-icon-themes (2.3.9) bionic; urgency=medium
+
+  * Added symbolic emoji category icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 17 May 2019 13:30:59 +0100
+
+zorin-icon-themes (2.3.8) bionic; urgency=medium
+
+  * Added evolution-mail and evolution-tasks icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 24 Apr 2019 00:31:53 +0100
+
+zorin-icon-themes (2.3.7) bionic; urgency=medium
+
+  * Added Zorin Connect icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 12 Mar 2019 12:37:38 +0000
+
+zorin-icon-themes (2.3.6) bionic; urgency=medium
+
+  * Updated applications-system icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 03 Mar 2019 18:37:58 +0000
+
+zorin-icon-themes (2.3.5) bionic; urgency=medium
+
+  * Updated Quadrapassel and Sudoku icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 27 Feb 2019 13:53:44 +0000
+
+zorin-icon-themes (2.3.4) bionic; urgency=medium
+
+  * Updated Shotwell, Sudoku, and Mines icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 27 Feb 2019 13:25:47 +0000
+
+zorin-icon-themes (2.3.3) bionic; urgency=medium
+
+  * Added 22x22/apps icons as symlinks to the 24x24/apps variants
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 26 Feb 2019 17:23:02 +0000
+
+zorin-icon-themes (2.3.2) bionic; urgency=medium
+
+  * Added custom folder icons for Zorin-95 theme
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 05 Feb 2019 22:03:14 +0000
+
+zorin-icon-themes (2.3.1) bionic; urgency=medium
+
+  * Changed process-working-symbolic icon in scalable directory
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 05 Feb 2019 20:11:52 +0000
+
+zorin-icon-themes (2.3) bionic; urgency=medium
+
+  * Added Zorin-95 theme
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 02 Feb 2019 18:44:24 +0000
+
+zorin-icon-themes (2.2.11) bionic; urgency=medium
+
+  * Added goa-account-exchange icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 30 Jan 2019 17:42:01 +0000
+
 zorin-icon-themes (2.2.10) bionic; urgency=medium
 
   * Added alacarte icon

@@ -34,7 +34,7 @@
   </defs>
   <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-345.0004,-100.99664)'>
     
-    <path inkscape:connector-curvature='0' d='m 346.5002,108.99958 1.5,0 0,6 4,0 0,-4 3,0 0,4 4,0 0,-6 1.5,0 -7,-7 z' id='path5521' sodipodi:nodetypes='cccccccccccc' style='fill:#000000;fill-opacity:0.49803922;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 346.5002,108.99958 1.5,0 0,6 4,0 0,-4 3,0 0,4 4,0 0,-6 1.5,0 -7,-7 z' id='path5521' sodipodi:nodetypes='cccccccccccc' style='fill:#333333;fill-opacity:0.49803922;stroke:none'/>
   </g>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='status' style='display:inline' transform='translate(-104.0002,-347.99664)'/>
 </svg>

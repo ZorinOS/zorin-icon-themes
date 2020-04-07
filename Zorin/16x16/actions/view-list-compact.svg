@@ -34,10 +34,10 @@
   </defs>
   <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-625.00018,-20.997)'>
     
-    <rect height='1' id='rect4161' ry='0' style='opacity:1;fill:#000000;fill-opacity:0.49803922;stroke:none;stroke-opacity:1;enable-background:new' width='4' x='633.00031' y='26'/>
-    <rect height='3' id='rect6732' ry='0.25' style='fill:#000000;fill-opacity:0.49803922;stroke:none;enable-background:new' width='3' x='629' y='25'/>
-    <rect height='1' id='rect3379' ry='0' style='opacity:1;fill:#000000;fill-opacity:0.49803922;stroke:none;stroke-opacity:1;enable-background:new' width='4' x='633.00031' y='31'/>
-    <rect height='3' id='rect3381' ry='0.1875' style='fill:#000000;fill-opacity:0.49803922;stroke:none;enable-background:new' width='3' x='629' y='30'/>
+    <rect height='1' id='rect4161' ry='0' style='opacity:1;fill:#333333;fill-opacity:0.49803922;stroke:none;stroke-opacity:1;enable-background:new' width='4' x='633.00031' y='26'/>
+    <rect height='3' id='rect6732' ry='0.25' style='fill:#333333;fill-opacity:0.49803922;stroke:none;enable-background:new' width='3' x='629' y='25'/>
+    <rect height='1' id='rect3379' ry='0' style='opacity:1;fill:#333333;fill-opacity:0.49803922;stroke:none;stroke-opacity:1;enable-background:new' width='4' x='633.00031' y='31'/>
+    <rect height='3' id='rect3381' ry='0.1875' style='fill:#333333;fill-opacity:0.49803922;stroke:none;enable-background:new' width='3' x='629' y='30'/>
   </g>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='status' style='display:inline' transform='translate(-383.99998,-267.997)'/>
 </svg>

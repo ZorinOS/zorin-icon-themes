@@ -17,8 +17,8 @@
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-80.000202,-300.36047)'>
     
-    <path inkscape:connector-curvature='0' d='m 92,306.36216 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 97.71214,307.42762 95.01105,306.36216 92,306.36216 Z' id='path10076' sodipodi:nodetypes='scccs' style='color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#dbdee0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
-    <path inkscape:connector-curvature='0' d='m 91.986328,311.39341 c -1.706822,0 -3.243308,0.60646 -4.517578,1.54687 l 4.517578,4.92188 4.482422,-4.93946 c -1.269344,-0.92997 -2.788706,-1.52929 -4.482422,-1.52929 z' id='path10078' sodipodi:nodetypes='scccs' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdee0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+    <path inkscape:connector-curvature='0' d='m 92,306.36216 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 97.71214,307.42762 95.01105,306.36216 92,306.36216 Z' id='path10076' sodipodi:nodetypes='scccs' style='color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+    <path inkscape:connector-curvature='0' d='m 91.986328,311.39341 c -1.706822,0 -3.243308,0.60646 -4.517578,1.54687 l 4.517578,4.92188 4.482422,-4.93946 c -1.269344,-0.92997 -2.788706,-1.52929 -4.482422,-1.52929 z' id='path10078' sodipodi:nodetypes='scccs' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-80.000202,152.00169)'/>
 </svg>

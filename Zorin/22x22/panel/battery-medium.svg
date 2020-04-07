@@ -21,8 +21,8 @@
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-80.999987,-373.3639)'>
     <rect height='22' id='rect6699' style='color:#dddddd;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='matrix(0,1,1,0,0,0)' width='22' x='373.36389' y='80.999985'/>
-    <path inkscape:connector-curvature='0' d='m 93.99997,377.3639 0,1 3.00003,0 c 0,0 -3e-5,0.446 -3e-5,1 l 0,11 c 0,0.554 -0.446,1 -1,1 l -8,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-11 c 0,-0.554 3e-5,-1 3e-5,-1 l 2.99997,0 0,-1 z' id='path6701' sodipodi:nodetypes='cccsssssscccc' style='opacity:0.35;fill:#dbdee0;fill-opacity:1;stroke:none'/>
-    <path inkscape:connector-curvature='0' d='m 96.99997,384.3639 0,6 c 0,0.554 -0.446,1 -1,1 l -8,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-6 z' id='path6703' sodipodi:nodetypes='csssscc' style='fill:#dbdee0;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 93.99997,377.3639 0,1 3.00003,0 c 0,0 -3e-5,0.446 -3e-5,1 l 0,11 c 0,0.554 -0.446,1 -1,1 l -8,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-11 c 0,-0.554 3e-5,-1 3e-5,-1 l 2.99997,0 0,-1 z' id='path6701' sodipodi:nodetypes='cccsssssscccc' style='opacity:0.35;fill:#333333;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 96.99997,384.3639 0,6 c 0,0.554 -0.446,1 -1,1 l -8,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-6 z' id='path6703' sodipodi:nodetypes='csssscc' style='fill:#333333;fill-opacity:1;stroke:none'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-80.999987,78.99826)'/>
 </svg>

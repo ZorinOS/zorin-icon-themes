@@ -34,10 +34,10 @@
   </defs>
   <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-605.00018,-20.996639)'>
     
-    <rect height='2' id='rect3359' ry='0' style='opacity:1;fill:#000000;fill-opacity:0.49803922;stroke:none;stroke-opacity:1;enable-background:new' width='6' x='613.00018' y='31'/>
-    <rect height='2' id='rect4161-5' ry='0' style='opacity:1;fill:#000000;fill-opacity:0.49803922;stroke:none;stroke-opacity:1;enable-background:new' width='6' x='613.00018' y='25.000002'/>
-    <rect height='4' id='rect6732-1' ry='0.25' style='fill:#000000;fill-opacity:0.49803922;stroke:none;enable-background:new' width='4' x='607.00018' y='24.000002'/>
-    <rect height='4' id='rect4181' ry='0.25' style='fill:#000000;fill-opacity:0.49803922;stroke:none;enable-background:new' width='4' x='607.00018' y='30'/>
+    <rect height='2' id='rect3359' ry='0' style='opacity:1;fill:#333333;fill-opacity:0.49803922;stroke:none;stroke-opacity:1;enable-background:new' width='6' x='613.00018' y='31'/>
+    <rect height='2' id='rect4161-5' ry='0' style='opacity:1;fill:#333333;fill-opacity:0.49803922;stroke:none;stroke-opacity:1;enable-background:new' width='6' x='613.00018' y='25.000002'/>
+    <rect height='4' id='rect6732-1' ry='0.25' style='fill:#333333;fill-opacity:0.49803922;stroke:none;enable-background:new' width='4' x='607.00018' y='24.000002'/>
+    <rect height='4' id='rect4181' ry='0.25' style='fill:#333333;fill-opacity:0.49803922;stroke:none;enable-background:new' width='4' x='607.00018' y='30'/>
   </g>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='status' style='display:inline' transform='translate(-363.99998,-267.99664)'/>
 </svg>

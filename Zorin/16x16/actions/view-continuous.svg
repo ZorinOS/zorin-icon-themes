@@ -34,11 +34,11 @@
   </defs>
   <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-685.0004,-20.996642)'>
     
-    <rect height='2.0033579' id='rect5437' rx='0' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#000000;fill-opacity:0.49803922;stroke:none;stroke-width:1;marker:none' transform='scale(-1,1)' width='8.0002003' x='-697.00043' y='30.999571'/>
-    <rect height='1.9964895' id='rect5439' rx='0' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#000000;fill-opacity:0.49803922;stroke:none;stroke-width:1;marker:none' transform='scale(-1,1)' width='7.9998002' x='-697' y='25.00308'/>
-    <rect height='1.99652' id='rect5441' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0.49803922;stroke:none;stroke-width:1;marker:none' transform='scale(-1,1)' width='11.999617' x='-699.00018' y='27.999571'/>
-    <rect height='0.99999899' id='rect5443' rx='0' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#000000;fill-opacity:0.49803922;stroke:none;stroke-width:1;marker:none' transform='scale(-1,1)' width='3.9999983' x='-695.00018' y='33.999573'/>
-    <rect height='0.99999899' id='rect5445' rx='0' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#000000;fill-opacity:0.49803922;stroke:none;stroke-width:1;marker:none' transform='scale(-1,1)' width='3.9999983' x='-695.00018' y='22.999571'/>
+    <rect height='2.0033579' id='rect5437' rx='0' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#333333;fill-opacity:0.49803922;stroke:none;stroke-width:1;marker:none' transform='scale(-1,1)' width='8.0002003' x='-697.00043' y='30.999571'/>
+    <rect height='1.9964895' id='rect5439' rx='0' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#333333;fill-opacity:0.49803922;stroke:none;stroke-width:1;marker:none' transform='scale(-1,1)' width='7.9998002' x='-697' y='25.00308'/>
+    <rect height='1.99652' id='rect5441' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:0.49803922;stroke:none;stroke-width:1;marker:none' transform='scale(-1,1)' width='11.999617' x='-699.00018' y='27.999571'/>
+    <rect height='0.99999899' id='rect5443' rx='0' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#333333;fill-opacity:0.49803922;stroke:none;stroke-width:1;marker:none' transform='scale(-1,1)' width='3.9999983' x='-695.00018' y='33.999573'/>
+    <rect height='0.99999899' id='rect5445' rx='0' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#333333;fill-opacity:0.49803922;stroke:none;stroke-width:1;marker:none' transform='scale(-1,1)' width='3.9999983' x='-695.00018' y='22.999571'/>
   </g>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='status' style='display:inline' transform='translate(-444.0002,-267.99664)'/>
 </svg>

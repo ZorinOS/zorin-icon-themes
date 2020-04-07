@@ -16,7 +16,7 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-200,-860.27264)'>
-    <path inkscape:connector-curvature='0' d='m 211,864.36216 c 0,0 -3,0 -3,3 l 0,1 0,6 -2,0 0,-6 -2,0 0,6 c 0,2 2,2 2,2 l 2,0 0,1 c 0,3 3,3 3,3 l 6,0 c 3,0 3,-3 3,-3 l 0,-4.45312 0,-1.54688 -4,0 0,1 0,1 2,0 0,0 -4,5 0,0 -4,-5 2,0 0,-6 4,0 0,2 4,0 0,-2 c 0.0783,0.52713 0,-3 -3,-3 z' id='path5250' sodipodi:nodetypes='cscccccsccscscccccccccccccccccsc' style='color:#bebebe;display:inline;opacity:0.35;fill:#dbdee0;fill-opacity:1;stroke:none;enable-background:new'/>
+    <path inkscape:connector-curvature='0' d='m 211,864.36216 c 0,0 -3,0 -3,3 l 0,1 0,6 -2,0 0,-6 -2,0 0,6 c 0,2 2,2 2,2 l 2,0 0,1 c 0,3 3,3 3,3 l 6,0 c 3,0 3,-3 3,-3 l 0,-4.45312 0,-1.54688 -4,0 0,1 0,1 2,0 0,0 -4,5 0,0 -4,-5 2,0 0,-6 4,0 0,2 4,0 0,-2 c 0.0783,0.52713 0,-3 -3,-3 z' id='path5250' sodipodi:nodetypes='cscccccsccscscccccccccccccccccsc' style='color:#bebebe;display:inline;opacity:0.35;fill:#333333;fill-opacity:1;stroke:none;enable-background:new'/>
     
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-200,-407.91048)'/>

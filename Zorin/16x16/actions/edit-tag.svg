@@ -34,7 +34,7 @@
   </defs>
   <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-685.0004,-121)'>
     
-    <path inkscape:connector-curvature='0' d='m 689.0002,121.99958 c 0,0 -2,0 -2,2 l 0,4.5 7.75,7.25 6,-6 -7.25,-7.75 z m 1,2 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 z' id='path5543' sodipodi:nodetypes='cscccccsssss' style='fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1'/>
+    <path inkscape:connector-curvature='0' d='m 689.0002,121.99958 c 0,0 -2,0 -2,2 l 0,4.5 7.75,7.25 6,-6 -7.25,-7.75 z m 1,2 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 z' id='path5543' sodipodi:nodetypes='cscccccsssss' style='fill:#333333;fill-opacity:0.49803922;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1'/>
   </g>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='status' style='display:inline' transform='translate(-444.0002,-368)'/>
 </svg>

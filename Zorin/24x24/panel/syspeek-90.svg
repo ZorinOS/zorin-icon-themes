@@ -16,7 +16,7 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-248,-956.36216)'>
-    <path inkscape:connector-curvature='0' d='m 254,960.36411 c -2,0 -2,2 -2,2 l 0,12 c 0,2 2,2 2,2 l 12,0 c 0,0 2,0 2,-2 l 0,-12 c 0,-2 -2,-2 -2,-2 l -12,0 z m 0,1.99805 12,0 0,12 -12,0 0,-12 z m 1,2 0,9 10,0 0,-9 -10,0 z' id='path5486' style='color:#000000;fill:#dbdee0;fill-opacity:1;stroke:none;stroke-width:2'/>
+    <path inkscape:connector-curvature='0' d='m 254,960.36411 c -2,0 -2,2 -2,2 l 0,12 c 0,2 2,2 2,2 l 12,0 c 0,0 2,0 2,-2 l 0,-12 c 0,-2 -2,-2 -2,-2 l -12,0 z m 0,1.99805 12,0 0,12 -12,0 0,-12 z m 1,2 0,9 10,0 0,-9 -10,0 z' id='path5486' style='color:#000000;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2'/>
     
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-248,-504)'/>

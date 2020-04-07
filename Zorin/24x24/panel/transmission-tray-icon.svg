@@ -16,7 +16,7 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-56,-884.36213)'>
-    <path inkscape:connector-curvature='0' d='m 63,889.36375 0,2 4,0 0,3 2,0 0,-3 4,0 0,-2 z m 6,5 0,3 2,0 -3,3 -3,-3 2,0 0,-3 -3,0 c 0,0 -0.9427,-0.0499 -1,0.875 l -1,6 0,1.125 1,0 10,0 1,0 0,-1.125 -1,-6 c -0.12238,-0.8567 -1,-0.875 -1,-0.875 z' id='path3775-3' sodipodi:nodetypes='ccccccccccccccccccccccccccc' style='color:#000000;fill:#dbdee0;fill-opacity:1;stroke:none;stroke-width:2'/>
+    <path inkscape:connector-curvature='0' d='m 63,889.36375 0,2 4,0 0,3 2,0 0,-3 4,0 0,-2 z m 6,5 0,3 2,0 -3,3 -3,-3 2,0 0,-3 -3,0 c 0,0 -0.9427,-0.0499 -1,0.875 l -1,6 0,1.125 1,0 10,0 1,0 0,-1.125 -1,-6 c -0.12238,-0.8567 -1,-0.875 -1,-0.875 z' id='path3775-3' sodipodi:nodetypes='ccccccccccccccccccccccccccc' style='color:#000000;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2'/>
     
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-56,-431.99997)'/>

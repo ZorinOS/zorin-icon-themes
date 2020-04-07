@@ -20,7 +20,7 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-201,-373.36216)'>
-    <path inkscape:connector-curvature='0' d='m 211.99979,377.36552 c -3.86599,0 -7,3.134 -7,7 0,3.86599 3.13401,7 7,7 3.866,0 7,-3.13401 7,-7 0,-3.866 -3.134,-7 -7,-7 z m 0,3 0,3 3,0 -3,5 0,-3 -3,0 3,-5 z' id='path9297' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdee0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate'/>
+    <path inkscape:connector-curvature='0' d='m 211.99979,377.36552 c -3.86599,0 -7,3.134 -7,7 0,3.86599 3.13401,7 7,7 3.866,0 7,-3.13401 7,-7 0,-3.866 -3.134,-7 -7,-7 z m 0,3 0,3 3,0 -3,5 0,-3 -3,0 3,-5 z' id='path9297' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate'/>
     <rect height='22' id='rect9294' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='22' x='201' y='373.36215'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-201,78.999997)'/>
