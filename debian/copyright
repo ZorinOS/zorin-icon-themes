@@ -2,8 +2,9 @@ Format: http://dep.debian.net/deps/dep5
 Upstream-Name: zorin-icon-themes
 
 Files: *
-Copyright: 2016 Sam Hewitt
-           2016 Alexey Varfolomeev
+Copyright: 2016-2018 Sam Hewitt
+           2016-2020 Papirus Development Team
+           2016-2021 Zorin OS Technologies Ltd.
 License: CC-BY-SA 4.0
  This work is licenced under the terms of the Creative Commons Attribution-
  ShareAlike 4.0 license. You are free to:

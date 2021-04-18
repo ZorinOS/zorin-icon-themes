@@ -1,3 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path d="m 774.99705,-93.00313 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 z m 0,6 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 z m 0,6 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 z" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" color="#000" overflow="visible" fill="#333333" fill-rule="evenodd" transform="translate(-765 95.003)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+ <path d="M3 3h10v2H3zm0 4h10v2H3zm0 4h10v2H3z" color="#bebebe" fill="#333333" overflow="visible"/>
 </svg>

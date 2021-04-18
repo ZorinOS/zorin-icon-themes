@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <g fill="#333333">
-        <path d="m 411.00021,-553.99854 v 1 h -3 v 1 10 h 5 v -3 h -3 l 3,-5 v 3 h 3 l -3,5 h 5 v -10 -1 h -3 v -1 z" opacity=".35" transform="translate(-405 554.999)"/>
-        <path d="m 408.00021,-544.99854 v 4 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 v -4 h -3.19922 l -1.80078,3 v -3 h -3 z" transform="translate(-405 554.999)"/>
-    </g>
-</svg>
+battery-level-30-charging-symbolic.svg
