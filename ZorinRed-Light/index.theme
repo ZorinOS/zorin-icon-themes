@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=ZorinRed-Light
+Name=ZorinPurple-Light
 Comment=The official Zorin OS icon theme.
 Inherits=Zorin,Adwaita,gnome,hicolor
 Example=folder
@@ -21,7 +21,7 @@ PanelDefault=32
 PanelSizes=16,22,32,48,64,72,96,128
 
 # Directory list
-Directories=16x16/actions,16x16/panel,16x16/places,22x22/animations,22x22/panel,24x24/animations,24x24/panel,24x24/places,32x32/places,48x48/places,512x512/places,16x16@2x/places,24x24@2x/places,32x32@2x/places,48x48@2x/places,512x512@2x/places,scalable/actions
+Directories=16x16/actions,16x16/panel,16x16/places,22x22/animations,22x22/panel,24x24/animations,24x24/panel,24x24/places,32x32/places,48x48/places,512x512/places,16x16@2x/places,24x24@2x/places,32x32@2x/places,48x48@2x/places,512x512@2x/places,scalable/actions,scalable/status
 
 # Actions
 
@@ -129,3 +129,13 @@ Size=512
 MinSize=64
 MaxSize=512
 Type=Fixed
+
+
+# Status
+
+[scalable/status]
+Context=Status
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable

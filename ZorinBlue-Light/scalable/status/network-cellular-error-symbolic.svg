@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path class="error" d="m 317.00344,-588.99505 -1e-5,4 0.25,2 h 1.5 l 0.25,-2 1e-5,-4 z m 0,7 v 2 h 2 v -2 z" color="#444" fill="#fa4444" transform="translate(-305.004 594.998)"/>
+    <path d="M 320.00411,-593.99414 316.00997,-590 h 3.99414 z m -4.00391,4.00391 -9.99609,9.99609 h 9.99609 z" opacity=".35" fill="#333333" transform="translate(-305.004 594.998)"/>
+</svg>

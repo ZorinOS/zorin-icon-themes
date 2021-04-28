@@ -1,3 +1,9 @@
+zorin-icon-themes (2.8.1) focal; urgency=medium
+
+  * Fixed status symbolic icons in colour variants
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 28 Apr 2021 23:59:28 +0100
+
 zorin-icon-themes (2.8) focal; urgency=medium
 
   * Matched action and panel icon colours in Light themes with the FG
