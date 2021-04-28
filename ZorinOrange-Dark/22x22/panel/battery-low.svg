@@ -12,7 +12,7 @@
  </metadata>
  <g id="layer1" transform="translate(-105 -373.36)">
   <rect id="rect10708" style="color:#dddddd;fill:none" transform="matrix(0,1,1,0,0,0)" height="22" width="22" y="105" x="373.36"/>
-  <path id="path10710" style="opacity:.35;fill:#febc8d" d="m118 377.36v1h3s-0.00003 0.446-0.00003 1v11c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-11c0-0.554 0.00003-1 0.00003-1h3v-1z"/>
-  <path id="path10712" style="fill:#febc8d" d="m121 386.36v4c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-4z"/>
+  <path id="path10710" style="opacity:.35;fill:#fcc8b4" d="m118 377.36v1h3s-0.00003 0.446-0.00003 1v11c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-11c0-0.554 0.00003-1 0.00003-1h3v-1z"/>
+  <path id="path10712" style="fill:#fcc8b4" d="m121 386.36v4c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-4z"/>
  </g>
 </svg>

@@ -21,8 +21,8 @@
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-105,-301.36216)'>
     <rect height='22' id='rect6582' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' width='22' x='105' y='301.36215'/>
-    <path inkscape:connector-curvature='0' d='m 108.9998,319.36549 14,-14 0,14 z' id='path6584' sodipodi:nodetypes='cccc' style='opacity:0.35;fill:#e35d5d;fill-opacity:1;stroke:none'/>
-    <path inkscape:connector-curvature='0' d='m 113,315.36549 -4,4 4,0 0,-4 z' id='path6586' style='fill:#e35d5d;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 108.9998,319.36549 14,-14 0,14 z' id='path6584' sodipodi:nodetypes='cccc' style='opacity:0.35;fill:#fdb4b4;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 113,315.36549 -4,4 4,0 0,-4 z' id='path6586' style='fill:#fdb4b4;fill-opacity:1;stroke:none'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-105,151)'/>
 </svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg6530" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="22" viewBox="0 0 22 22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata6535">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-153 -705.29)">
+  <rect id="rect18110-7-1-6-6-8-9-2" style="color:#bebebe;enable-background:new;fill:none" height="22" width="22" y="705.29" x="153"/>
+  <path id="rect6343" style="opacity:.35;color:#bebebe;fill:#29292a" d="m156 711.29h13c3-0.00001 3 3 3 3h-13s-3-0.00001-3-3z"/>
+  <path id="rect6345" style="opacity:.35;color:#bebebe;fill:#29292a" d="m169 715.29h-13c-0.00002 3 3 3 3 3h13s0-3-3-3z"/>
+  <path id="rect6347" style="opacity:.35;color:#bebebe;fill:#29292a" d="m156 719.29h13c3-0.00002 3 3 3 3h-13s-3-0.00002-3-3z"/>
+ </g>
+</svg>

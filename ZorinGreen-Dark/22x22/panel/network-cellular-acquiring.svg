@@ -21,8 +21,8 @@
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-153.00021,-325.36216)'>
     <rect height='22' id='rect5780' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' width='22' x='153.00021' y='325.36215'/>
-    <path inkscape:connector-curvature='0' d='m 170.9998,329.36549 -4,4 4,0 0,-4 z m -10,10 -4,4 14,0 0,-4 -10,0 z' id='path5782' style='opacity:0.35;fill:#b0f0df;fill-opacity:1;stroke:none'/>
-    <path inkscape:connector-curvature='0' d='m 158.9998,334.36549 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z' id='rect8040-5-9-3' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#b0f0df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new'/>
+    <path inkscape:connector-curvature='0' d='m 170.9998,329.36549 -4,4 4,0 0,-4 z m -10,10 -4,4 14,0 0,-4 -10,0 z' id='path5782' style='opacity:0.35;fill:#bbf1dd;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 158.9998,334.36549 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z' id='rect8040-5-9-3' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bbf1dd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-153.00021,127)'/>
 </svg>

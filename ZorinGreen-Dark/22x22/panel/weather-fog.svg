@@ -12,8 +12,8 @@
  </metadata>
  <g id="layer1" transform="translate(-153 -705.29)">
   <rect id="rect18110-7-1-6-6-8-9-2" style="color:#bebebe;enable-background:new;fill:none" height="22" width="22" y="705.29" x="153"/>
-  <path id="rect6343" style="opacity:.35;color:#bebebe;fill:#b0f0df" d="m156 711.29h13c3-0.00001 3 3 3 3h-13s-3-0.00001-3-3z"/>
-  <path id="rect6345" style="opacity:.35;color:#bebebe;fill:#b0f0df" d="m169 715.29h-13c-0.00002 3 3 3 3 3h13s0-3-3-3z"/>
-  <path id="rect6347" style="opacity:.35;color:#bebebe;fill:#b0f0df" d="m156 719.29h13c3-0.00002 3 3 3 3h-13s-3-0.00002-3-3z"/>
+  <path id="rect6343" style="opacity:.35;color:#bebebe;fill:#bbf1dd" d="m156 711.29h13c3-0.00001 3 3 3 3h-13s-3-0.00001-3-3z"/>
+  <path id="rect6345" style="opacity:.35;color:#bebebe;fill:#bbf1dd" d="m169 715.29h-13c-0.00002 3 3 3 3 3h13s0-3-3-3z"/>
+  <path id="rect6347" style="opacity:.35;color:#bebebe;fill:#bbf1dd" d="m156 719.29h13c3-0.00002 3 3 3 3h-13s-3-0.00002-3-3z"/>
  </g>
 </svg>

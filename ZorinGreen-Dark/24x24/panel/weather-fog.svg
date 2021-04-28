@@ -11,8 +11,8 @@
   </rdf:RDF>
  </metadata>
  <g id="layer1" transform="translate(-152 -780.36)">
-  <path id="rect6343" style="opacity:.35;color:#bebebe;fill:#b0f0df" d="m156 787.36h13c3-0.00001 3 3 3 3h-13s-3-0.00001-3-3z"/>
-  <path id="rect6345" style="opacity:.35;color:#bebebe;fill:#b0f0df" d="m169 791.36h-13c-0.00002 3 3 3 3 3h13s0-3-3-3z"/>
-  <path id="rect6347" style="opacity:.35;color:#bebebe;fill:#b0f0df" d="m156 795.36h13c3-0.00002 3 3 3 3h-13s-3-0.00002-3-3z"/>
+  <path id="rect6343" style="opacity:.35;color:#bebebe;fill:#bbf1dd" d="m156 787.36h13c3-0.00001 3 3 3 3h-13s-3-0.00001-3-3z"/>
+  <path id="rect6345" style="opacity:.35;color:#bebebe;fill:#bbf1dd" d="m169 791.36h-13c-0.00002 3 3 3 3 3h13s0-3-3-3z"/>
+  <path id="rect6347" style="opacity:.35;color:#bebebe;fill:#bbf1dd" d="m156 795.36h13c3-0.00002 3 3 3 3h-13s-3-0.00002-3-3z"/>
  </g>
 </svg>

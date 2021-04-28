@@ -12,8 +12,8 @@
  </metadata>
  <g id="layer1" transform="translate(-129 -421.36)">
   <rect id="rect10878" style="color:#dddddd;fill:none" transform="rotate(90)" height="22" width="22" y="-151" x="421.36"/>
-  <path id="path10882" style="opacity:.35;color:#bebebe;fill:#EB6D55" d="m132.5 424.36c-0.277 0-0.5 0.22301-0.5 0.50001v0.5l-2-0.002v-0.00026l-0.00002 14.502c0 0.277 0.223 0.5 0.5 0.5h6c0.277 0 0.5-0.223 0.5-0.5l0.00002-14.501-0.50002 0.002h-1.5v-0.5c0-0.277-0.223-0.50001-0.5-0.50001z"/>
-  <path id="path10884" style="color:#bebebe;fill:#EB6D55" d="m130 437.36v2.5c0 0.277 0.223 0.5 0.5 0.5h6c0.277 0 0.5-0.223 0.5-0.5v-2.5z"/>
+  <path id="path10882" style="opacity:.35;color:#bebebe;fill:#fb7c7c" d="m132.5 424.36c-0.277 0-0.5 0.22301-0.5 0.50001v0.5l-2-0.002v-0.00026l-0.00002 14.502c0 0.277 0.223 0.5 0.5 0.5h6c0.277 0 0.5-0.223 0.5-0.5l0.00002-14.501-0.50002 0.002h-1.5v-0.5c0-0.277-0.223-0.50001-0.5-0.50001z"/>
+  <path id="path10884" style="color:#bebebe;fill:#fb7c7c" d="m130 437.36v2.5c0 0.277 0.223 0.5 0.5 0.5h6c0.277 0 0.5-0.223 0.5-0.5v-2.5z"/>
   <path id="path10927" style="fill:#ffffff;fill-rule:evenodd" d="m140 425.36c-0.554 0-1 0.446-1 1v13c0 0.554 0.446 1 1 1h5c0.554 0 1-0.446 1-1v-13c0-0.554-0.446-1-1-1h-5zm0 3h1v1h-1v-1zm2 0h1v1h-1v-1zm2 1h1v7h-1v-7zm-4 1h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1z"/>
  </g>
 </svg>
