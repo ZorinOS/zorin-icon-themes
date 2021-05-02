@@ -1,3 +1,10 @@
+zorin-icon-themes (2.8.2) focal; urgency=medium
+
+  * Fixed regression that caused the trash full icon to switch to a
+    symbolic icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 02 May 2021 15:12:38 +0100
+
 zorin-icon-themes (2.8.1) focal; urgency=medium
 
   * Fixed status symbolic icons in colour variants
