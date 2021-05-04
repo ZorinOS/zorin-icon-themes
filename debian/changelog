@@ -1,3 +1,9 @@
+zorin-icon-themes (2.8.3) focal; urgency=medium
+
+  * Removed old Netbeans icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 04 May 2021 20:29:24 +0100
+
 zorin-icon-themes (2.8.2) focal; urgency=medium
 
   * Fixed regression that caused the trash full icon to switch to a
