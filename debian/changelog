@@ -1,3 +1,9 @@
+zorin-icon-themes (2.8.5) focal; urgency=medium
+
+  * Fixed broken symlinks
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 19 Jun 2021 12:01:16 +0100
+
 zorin-icon-themes (2.8.4) focal; urgency=medium
 
   * Updated various app icons
