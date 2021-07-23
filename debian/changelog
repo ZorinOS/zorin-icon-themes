@@ -1,3 +1,9 @@
+zorin-icon-themes (2.8.7) focal; urgency=medium
+
+  * Added io.mpv.Mpv symlinks
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 23 Jul 2021 19:20:31 +0100
+
 zorin-icon-themes (2.8.6) focal; urgency=medium
 
   * Added vector mimetypes and Shotcut icons, removed Steam icon, and
