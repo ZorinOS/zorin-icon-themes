@@ -1,3 +1,10 @@
+zorin-icon-themes (2.8.6) focal; urgency=medium
+
+  * Added vector mimetypes and Shotcut icons, removed Steam icon, and
+    changed Audacity, Tweaks, and MPV icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 23 Jul 2021 14:27:18 +0100
+
 zorin-icon-themes (2.8.5) focal; urgency=medium
 
   * Fixed broken symlinks
