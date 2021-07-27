@@ -1,3 +1,9 @@
+zorin-icon-themes (2.8.8) focal; urgency=medium
+
+  * Corrected symbolic links for io.mpv.Mpv
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 27 Jul 2021 19:02:49 +0100
+
 zorin-icon-themes (2.8.7) focal; urgency=medium
 
   * Added io.mpv.Mpv symlinks
