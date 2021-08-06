@@ -1,3 +1,9 @@
+zorin-icon-themes (2.8.9) focal; urgency=medium
+
+  * Added icons and symlinks for a number of Flatpak apps
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 06 Aug 2021 14:00:05 +0100
+
 zorin-icon-themes (2.8.8) focal; urgency=medium
 
   * Corrected symbolic links for io.mpv.Mpv
