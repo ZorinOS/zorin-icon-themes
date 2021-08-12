@@ -1,3 +1,9 @@
+zorin-icon-themes (2.8.11) focal; urgency=medium
+
+  * Added symlinks for additional icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Thu, 12 Aug 2021 20:33:36 +0100
+
 zorin-icon-themes (2.8.10) focal; urgency=medium
 
   * Added icons for more Flatpak apps
