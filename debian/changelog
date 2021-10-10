@@ -1,3 +1,9 @@
+zorin-icon-themes (2.9) focal; urgency=medium
+
+  * Added support for XFCE 4.16
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 10 Oct 2021 21:57:40 +0100
+
 zorin-icon-themes (2.8.11) focal; urgency=medium
 
   * Added symlinks for additional icons
