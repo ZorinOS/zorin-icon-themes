@@ -1,3 +1,15 @@
+zorin-icon-themes (2.9.2) focal; urgency=medium
+
+  * Added application-default-icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Thu, 04 Nov 2021 12:56:17 +0000
+
+zorin-icon-themes (2.9.1) focal; urgency=medium
+
+  * Added more mimetypes for office documents
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Thu, 28 Oct 2021 19:49:07 +0100
+
 zorin-icon-themes (2.9) focal; urgency=medium
 
   * Added support for XFCE 4.16
