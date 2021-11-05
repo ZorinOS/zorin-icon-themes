@@ -1,3 +1,9 @@
+zorin-icon-themes (2.9.3) focal; urgency=medium
+
+  * Replaced help-about-symbolic icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 05 Nov 2021 19:31:02 +0000
+
 zorin-icon-themes (2.9.2) focal; urgency=medium
 
   * Added application-default-icon
