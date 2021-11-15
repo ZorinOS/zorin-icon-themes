@@ -1,3 +1,9 @@
+zorin-icon-themes (2.9.4) focal; urgency=medium
+
+  * Added preferences-sound icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Mon, 15 Nov 2021 13:35:24 +0000
+
 zorin-icon-themes (2.9.3) focal; urgency=medium
 
   * Replaced help-about-symbolic icons
