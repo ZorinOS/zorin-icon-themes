@@ -1,3 +1,9 @@
+zorin-icon-themes (2.9.5) focal; urgency=medium
+
+  * Removed flash icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 23 Jan 2022 19:46:34 +0000
+
 zorin-icon-themes (2.9.4) focal; urgency=medium
 
   * Added preferences-sound icons
