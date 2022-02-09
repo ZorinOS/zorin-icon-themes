@@ -1,3 +1,9 @@
+zorin-icon-themes (2.9.7) focal; urgency=medium
+
+  * Removed Google Chrome and Chromium symbolic icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 09 Feb 2022 13:54:54 +0000
+
 zorin-icon-themes (2.9.6) focal; urgency=medium
 
   * Removed Google Chrome and Chromium logos
