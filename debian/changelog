@@ -1,3 +1,9 @@
+zorin-icon-themes (2.9.8) focal; urgency=medium
+
+  * Added links for com.transmissionbt.Transmission icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 08 Jul 2022 23:47:34 +0100
+
 zorin-icon-themes (2.9.7) focal; urgency=medium
 
   * Removed Google Chrome and Chromium symbolic icons
