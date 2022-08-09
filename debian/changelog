@@ -1,3 +1,9 @@
+zorin-icon-themes (2.9.9) focal; urgency=medium
+
+  * Better icons for Windows exe and msi files
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 09 Aug 2022 17:37:36 +0100
+
 zorin-icon-themes (2.9.8) focal; urgency=medium
 
   * Added links for com.transmissionbt.Transmission icon
