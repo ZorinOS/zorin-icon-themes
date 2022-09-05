@@ -1,3 +1,9 @@
+zorin-icon-themes (2.9.10) focal; urgency=medium
+
+  * Better Office and Package Manager icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Mon, 05 Sep 2022 14:08:19 +0100
+
 zorin-icon-themes (2.9.9) focal; urgency=medium
 
   * Better icons for Windows exe and msi files
