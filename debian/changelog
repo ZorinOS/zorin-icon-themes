@@ -1,3 +1,9 @@
+zorin-icon-themes (2.9.11) focal; urgency=medium
+
+  * Corrected theme index
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 11 Jan 2023 14:24:24 +0000
+
 zorin-icon-themes (2.9.10) focal; urgency=medium
 
   * Better Office and Package Manager icons
