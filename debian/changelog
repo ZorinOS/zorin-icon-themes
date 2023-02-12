@@ -1,3 +1,10 @@
+zorin-icon-themes (2.9.12) focal; urgency=medium
+
+  * Removed google icon as it incorrectly replaced the Google Chrome
+    icon on the desktop
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 12 Feb 2023 17:31:22 +0000
+
 zorin-icon-themes (2.9.11) focal; urgency=medium
 
   * Corrected theme index
