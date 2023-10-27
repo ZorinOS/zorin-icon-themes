@@ -1,3 +1,10 @@
+zorin-icon-themes (2.9.15) jammy; urgency=medium
+
+  * Added location-services-active-symbolic and location-services-
+    disabled-symbolic icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 27 Oct 2023 23:25:50 +0100
+
 zorin-icon-themes (2.9.14) jammy; urgency=medium
 
   * Added multitasking-symbolic icon
