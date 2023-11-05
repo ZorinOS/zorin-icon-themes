@@ -1,3 +1,10 @@
+zorin-icon-themes (3.0) jammy; urgency=medium
+
+  * Added icon links for new GNOME Software version and other
+    improvements
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 05 Nov 2023 16:22:29 +0000
+
 zorin-icon-themes (2.9.15) jammy; urgency=medium
 
   * Added location-services-active-symbolic and location-services-
