@@ -1,3 +1,9 @@
+zorin-icon-themes (3.0.1) jammy; urgency=medium
+
+  * Added new symbolic icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Mon, 06 Nov 2023 20:20:49 +0000
+
 zorin-icon-themes (3.0) jammy; urgency=medium
 
   * Added icon links for new GNOME Software version and other
