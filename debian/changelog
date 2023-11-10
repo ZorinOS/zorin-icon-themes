@@ -1,3 +1,9 @@
+zorin-icon-themes (3.0.2) jammy; urgency=medium
+
+  * Added icon for malcontent-gui
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 10 Nov 2023 17:15:09 +0000
+
 zorin-icon-themes (3.0.1) jammy; urgency=medium
 
   * Added new symbolic icons
