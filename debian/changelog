@@ -1,3 +1,9 @@
+zorin-icon-themes (3.0.3) jammy; urgency=medium
+
+  * Added icon for application-x-sharedlib mimetype
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 14 Nov 2023 13:30:45 +0000
+
 zorin-icon-themes (3.0.2) jammy; urgency=medium
 
   * Added icon for malcontent-gui
