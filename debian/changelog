@@ -1,3 +1,9 @@
+zorin-icon-themes (3.0.4) jammy; urgency=medium
+
+  * Added icon for application-x-generic
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Thu, 16 Nov 2023 17:53:05 +0000
+
 zorin-icon-themes (3.0.3) jammy; urgency=medium
 
   * Added icon for application-x-sharedlib mimetype
