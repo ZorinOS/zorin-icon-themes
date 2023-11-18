@@ -1,3 +1,10 @@
+zorin-icon-themes (3.0.5) jammy; urgency=medium
+
+  * Rounded app grid icon and added symbolic link for Firefox Flatpak
+    app icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 18 Nov 2023 22:20:36 +0000
+
 zorin-icon-themes (3.0.4) jammy; urgency=medium
 
   * Added icon for application-x-generic
