@@ -1,3 +1,9 @@
+zorin-icon-themes (3.1) jammy; urgency=medium
+
+  * Changed file manager icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 22 Nov 2023 14:00:00 +0000
+
 zorin-icon-themes (3.0.5) jammy; urgency=medium
 
   * Rounded app grid icon and added symbolic link for Firefox Flatpak
