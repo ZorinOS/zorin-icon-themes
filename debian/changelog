@@ -1,3 +1,9 @@
+zorin-icon-themes (3.1.1) jammy; urgency=medium
+
+  * Added image-auto-adjust-symbolic icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 24 Nov 2023 18:41:34 +0000
+
 zorin-icon-themes (3.1) jammy; urgency=medium
 
   * Changed file manager icon
