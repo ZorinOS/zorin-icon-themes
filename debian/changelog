@@ -1,3 +1,9 @@
+zorin-icon-themes (3.2) jammy; urgency=medium
+
+  * Updated symbolic icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 13 Dec 2023 13:49:06 +0000
+
 zorin-icon-themes (3.1.1) jammy; urgency=medium
 
   * Added image-auto-adjust-symbolic icon
