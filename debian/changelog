@@ -1,3 +1,10 @@
+zorin-icon-themes (3.3) jammy; urgency=medium
+
+  * Removed outdated icons for third-party apps and added icons for
+    Solaar
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Thu, 23 May 2024 23:29:47 +0100
+
 zorin-icon-themes (3.2) jammy; urgency=medium
 
   * Updated symbolic icons
