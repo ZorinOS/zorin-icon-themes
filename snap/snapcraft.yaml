@@ -1,0 +1,45 @@
+name: icon-theme-zorin
+build-base: core24
+base: bare
+version: '3.2.2'
+platforms:
+  all:
+    build-on: [amd64]
+    build-for: [all]
+summary: Icon themes of Zorin OS.
+description: |
+  A Snap to enable the use of Zorin icon themes in Snap apps.
+grade: stable
+confinement: strict
+
+slots:
+  icon-themes:
+    interface: content
+    source:
+      read:
+        - $SNAP/share/icons/Zorin
+        - $SNAP/share/icons/ZorinBlue-Dark
+        - $SNAP/share/icons/ZorinBlue-Light
+        - $SNAP/share/icons/ZorinGreen-Dark
+        - $SNAP/share/icons/ZorinGreen-Light
+        - $SNAP/share/icons/ZorinGrey-Dark
+        - $SNAP/share/icons/ZorinGrey-Light
+        - $SNAP/share/icons/ZorinOrange-Dark
+        - $SNAP/share/icons/ZorinOrange-Light
+        - $SNAP/share/icons/ZorinPurple-Dark
+        - $SNAP/share/icons/ZorinPurple-Light
+        - $SNAP/share/icons/ZorinRed-Dark
+        - $SNAP/share/icons/ZorinRed-Light
+  
+parts:
+  icon-themes:
+    plugin: dump
+    source: https://github.com/ZorinOS/zorin-icon-themes/archive/refs/tags/3.3.2.tar.gz
+    override-build: |
+      snapcraftctl build
+      pwd
+      ls -l
+      mkdir -p $CRAFT_PART_INSTALL/share/icons
+      mv -f $CRAFT_PART_INSTALL/Zorin* $CRAFT_PART_INSTALL/share/icons
+    stage:
+      - share/icons/
