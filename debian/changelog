@@ -1,3 +1,15 @@
+zorin-icon-themes (3.4) noble; urgency=medium
+
+  * Updated for Zorin OS 18
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 20 Jun 2025 17:49:46 +0100
+
+zorin-icon-themes (3.3.2+1) noble; urgency=medium
+
+  * Uploaded to Zorin OS 18 repositories
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 08 Mar 2025 14:08:47 +0000
+
 zorin-icon-themes (3.3.2) jammy; urgency=medium
 
   * Added new icons for Brave and ExtensionManager
