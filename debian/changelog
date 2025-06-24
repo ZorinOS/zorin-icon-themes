@@ -1,3 +1,9 @@
+zorin-icon-themes (3.4.1) noble; urgency=medium
+
+  * Corrected some additional icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 24 Jun 2025 17:51:06 +0100
+
 zorin-icon-themes (3.4) noble; urgency=medium
 
   * Updated for Zorin OS 18
