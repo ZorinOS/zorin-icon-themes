@@ -1,6 +1,8 @@
 Zorin* /usr/share/icons/
 ZorinBlue-Dark* /usr/share/icons/
 ZorinBlue-Light* /usr/share/icons/
+ZorinBrown-Dark* /usr/share/icons/
+ZorinBrown-Light* /usr/share/icons/
 ZorinGreen-Dark* /usr/share/icons/
 ZorinGreen-Light* /usr/share/icons/
 ZorinGrey-Dark* /usr/share/icons/
@@ -11,3 +13,5 @@ ZorinPurple-Dark* /usr/share/icons/
 ZorinPurple-Light* /usr/share/icons/
 ZorinRed-Dark* /usr/share/icons/
 ZorinRed-Light* /usr/share/icons/
+ZorinYellow-Dark* /usr/share/icons/
+ZorinYellow-Light* /usr/share/icons/

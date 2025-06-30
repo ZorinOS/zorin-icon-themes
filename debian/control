@@ -2,8 +2,8 @@ Source: zorin-icon-themes
 Section: gnome
 Priority: extra
 Maintainer: Artyom Zorin <azorin@zoringroup.com>
-Build-Depends: debhelper (>= 7)
-Standards-Version: 3.9.7
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.1
 
 Package: zorin-icon-themes
 Architecture: all
