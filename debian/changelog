@@ -1,3 +1,9 @@
+zorin-icon-themes (4.0.4) noble; urgency=medium
+
+  * Added crop-symbolic icon
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Thu, 21 Aug 2025 15:33:33 +0100
+
 zorin-icon-themes (4.0.3) noble; urgency=medium
 
   * Added various new icons
