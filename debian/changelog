@@ -1,3 +1,9 @@
+zorin-icon-themes (4.0.5) noble; urgency=medium
+
+  * Changed applications-graphics and sidebar icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 10 Sep 2025 15:50:14 +0100
+
 zorin-icon-themes (4.0.4) noble; urgency=medium
 
   * Added crop-symbolic icon
