@@ -1,3 +1,9 @@
+zorin-icon-themes (4.0.7) noble; urgency=medium
+
+  * Added icons for fingwit
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 04 Apr 2026 18:15:18 +0100
+
 zorin-icon-themes (4.0.6) noble; urgency=medium
 
   * Added sidebar-hide-symbolic icons
